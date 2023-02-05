@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca08a8b5.css",
+    "main.js": "/static/js/main.ed1b47d3.js",
+    "static/media/video.mp4": "/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/Collaging-Words.png": "/static/media/Collaging-Words.788faf7ebbd81800a2cc.png",
+    "static/media/Course-of-a-Discourse.png": "/static/media/Course-of-a-Discourse.1bbf399d1148a726a816.png",
+    "static/media/Poster-Picasso.png": "/static/media/Poster-Picasso.895dfb25d17cd8beaec8.png",
+    "static/media/Valorant.png": "/static/media/Valorant.c0de97c3717535b304b8.png",
+    "static/media/Ace-Designers'.png": "/static/media/Ace-Designers'.4ee93ee3dc8f85a31bbf.png",
+    "static/media/Fortnite.png": "/static/media/Fortnite.4b2b9bcfe96a1ed3e5b2.png",
+    "static/media/Technovation-Logo.png": "/static/media/Technovation-Logo.d5c77d1395e32e36ad55.png",
+    "static/media/GameJam.png": "/static/media/GameJam.edb01925b456e1c0051e.png",
+    "static/media/Ingenious-Geniuses.png": "/static/media/Ingenious-Geniuses.4c210770fc10e7cf4d92.png",
+    "static/media/Speakers.png": "/static/media/Speakers.fb4416eb9be8fb93fb28.png",
+    "static/media/Partner.png": "/static/media/Partner.ca89333dd6befc2d0997.png",
+    "static/media/FAQ.png": "/static/media/FAQ.7f0c3e8d9386659ef1e2.png",
+    "static/media/The-Perfect-UI.png": "/static/media/The-Perfect-UI.b3051a2a1e8984e43485.png",
+    "static/media/Master-Coder.png": "/static/media/Master-Coder.a095d46d523b2ad43690.png",
+    "index.html": "/index.html",
+    "main.ca08a8b5.css.map": "/static/css/main.ca08a8b5.css.map",
+    "main.ed1b47d3.js.map": "/static/js/main.ed1b47d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca08a8b5.css",
+    "static/js/main.ed1b47d3.js"
+  ]
+}
